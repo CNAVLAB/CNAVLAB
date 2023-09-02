@@ -37,7 +37,7 @@ We wholeheartedly embrace contributions and collaborations from the community. I
 
 Have questions, suggestions, or just eager to connect with us? Reach out through our official channels:
 
-- [Website]([https://www.cnallab.com](http://ae.sharif.edu/~cnavlab)
+- [Website](http://ae.sharif.edu/~cnavlab)
 - [Email](mailto:cnavlab@ae.sharif.edu)
 - [LinkedIn](https://www.linkedin.com/company/cnallab)
 
