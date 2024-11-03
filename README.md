@@ -72,12 +72,17 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
     <td colspan="2" align="center">
       <img src="images/profiles/baniasad.jpeg" width="200" height="200"><br>
       <strong>Head</strong><br>
-      Ali BaniAsad<br>[Email](mailto:supervisor@example.com)</td>
+      Ali BaniAsad<br>
+      <a href="mailto:supervisor@example.com">Email</a>
+      </td>
     <td colspan="2" align="center">
       <img src="images/profiles/kh.jpg" width="200" height="200" ><br>
       <strong>Co-Head</strong><br>
       Khairol Omor<br>
-      [Email]
+      <a href="mailto:supervisor@example.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a>
     </td>
   </tr>
 
