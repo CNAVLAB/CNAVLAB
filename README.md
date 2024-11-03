@@ -45,5 +45,66 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
 
 
 
-## People
+# CNAV Lab People
+
+<div align="center">
+
+<table>
+  <!-- Supervisor row -->
+  <tr>
+    <td colspan="4" align="center">
+      <img src="images/profiles/sharifi.jpeg" width="200" height="280" ><br>
+      <strong>Supervisor</strong><br>
+      Alireza Sharifi<br>
+      [Email](mailto:supervisor@example.com)
+    </td>
+  </tr>
+
+  <!-- Second row: Co-heads -->
+  <tr>
+    <td colspan="2" align="center">
+      <img src="images/profiles/baniasad.jpeg" width="200" height="200"><br>
+      <strong>Head</strong><br>
+      Ali BaniAsad<br>
+      [Email](mailto:co-head1@example.com)
+    </td>
+    <td colspan="2" align="center">
+      <img src="images/profiles/kh.jpg" width="200" height="200" ><br>
+      <strong>Co-Head</strong><br>
+      Khairol Omor<br>
+      [Email](mailto:co-head2@example.com)
+    </td>
+  </tr>
+
+  <!-- Third row: Others -->
+  <tr>
+    <td align="center">
+      <img src="images/member1.png" width="100" height="100" alt="Member 1"><br>
+      <strong>Senior Researcher</strong><br>
+      **Name 3**<br>
+      [LinkedIn](https://linkedin.com/in/member1)
+    </td>
+    <td align="center">
+      <img src="images/member2.png" width="100" height="100" alt="Member 2"><br>
+      <strong>Researcher</strong><br>
+      **Name 4**<br>
+      [Email](mailto:member2@example.com)
+    </td>
+    <td align="center">
+      <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
+      <strong>Research Assistant</strong><br>
+      **Name 5**<br>
+      [GitHub](https://github.com/member3)
+    </td>
+    <td align="center">
+      <img src="images/member4.png" width="100" height="100" alt="Member 4"><br>
+      <strong>Research Assistant</strong><br>
+      **Name 6**<br>
+      [Email](mailto:member4@example.com)
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
