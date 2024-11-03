@@ -73,15 +73,36 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       <img src="images/profiles/baniasad.jpeg" width="200" height="200"><br>
       <strong>Head</strong><br>
       Ali BaniAsad<br>
-      <a href="mailto:supervisor@example.com">Email</a>
+      <a href="mailto:alibaniasad1999@yahooe.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
+  </a>
       </td>
     <td colspan="2" align="center">
       <img src="images/profiles/kh.jpg" width="200" height="200" ><br>
       <strong>Co-Head</strong><br>
       Khairol Omor<br>
-      <a href="mailto:supervisor@example.com">
+      <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
     Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
   </a>
     </td>
   </tr>
@@ -92,25 +113,73 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       <img src="images/member1.png" width="100" height="100" alt="Member 1"><br>
       <strong>Senior Researcher</strong><br>
       **Name 3**<br>
-      [LinkedIn]
+      <a href="mailto:alibaniasad1999@yahooe.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
+  </a>
     </td>
     <td align="center">
       <img src="images/member2.png" width="100" height="100" alt="Member 2"><br>
       <strong>Researcher</strong><br>
       **Name 4**<br>
-      [Email]
+      <a href="mailto:alibaniasad1999@yahooe.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
+  </a>
     </td>
     <td align="center">
       <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
       <strong>Research Assistant</strong><br>
       **Name 5**<br>
-      [GitHub]
+      <a href="mailto:alibaniasad1999@yahooe.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
+  </a>
     </td>
      <td align="center">
       <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
       <strong>Research Assistant</strong><br>
       **Name 5**<br>
-      [GitHub]
+      <a href="mailto:alibaniasad1999@yahooe.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
+  </a>
     </td>
   </tr>
 </table>
