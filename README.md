@@ -37,10 +37,13 @@ We wholeheartedly embrace contributions and collaborations from the community. I
 
 Have questions, suggestions, or just eager to connect with us? Reach out through our official channels:
 
-## People
-
 - [Website](http://ae.sharif.edu/~cnavlab)
 - [Email](mailto:cnavlab@ae.sharif.edu)
 - [LinkedIn](https://www.linkedin.com/company/cnallab)
 
 Thank you for exploring our Autonomous Systems repository. We can't wait to share our awe-inspiring research and innovations with you! 🚀🌟
+
+
+
+## People
+
