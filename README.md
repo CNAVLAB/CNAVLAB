@@ -63,7 +63,19 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       <img src="images/profiles/sharifi.jpeg" width="200" height="280" ><br>
       <strong>Supervisor</strong><br>
       Alireza Sharifi<br>
-      [Email]
+      <a href="mailto:alibaniasad1999@yahooe.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Email
+  </a> 
+  <a href="https://github.com/alibaniasad1999">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Github
+  </a>
+  <br>
+  <a href="https://t.me/alibaniasad1999">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
+    Telegram
+  </a>
     </td>
   </tr>
 
