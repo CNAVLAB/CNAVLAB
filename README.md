@@ -1,6 +1,13 @@
 # CNAL Lab - Autonomous Systems Repository 🚁
 
-Welcome to the CNAL Lab's Autonomous Systems repository on GitHub! 🌐
+Welcome to the CNAV Lab's Autonomous Systems repository on GitHub! 
+CNAV stands for **Control and Navigation for Autonomous Vehicles**.
+
+<div align="center">
+  <img src="images/logo.png" width="1504" height="352" alt="CNAV Lab Logo"><br>
+</div>
+
+
 
 ## Overview 📚
 
@@ -56,7 +63,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       <img src="images/profiles/sharifi.jpeg" width="200" height="280" ><br>
       <strong>Supervisor</strong><br>
       Alireza Sharifi<br>
-      [Email](mailto:supervisor@example.com)
+      [Email]
     </td>
   </tr>
 
@@ -66,13 +73,13 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       <img src="images/profiles/baniasad.jpeg" width="200" height="200"><br>
       <strong>Head</strong><br>
       Ali BaniAsad<br>
-      [Email](mailto:co-head1@example.com)
+      [Email]
     </td>
     <td colspan="2" align="center">
       <img src="images/profiles/kh.jpg" width="200" height="200" ><br>
       <strong>Co-Head</strong><br>
       Khairol Omor<br>
-      [Email](mailto:co-head2@example.com)
+      [Email]
     </td>
   </tr>
 
@@ -82,25 +89,25 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       <img src="images/member1.png" width="100" height="100" alt="Member 1"><br>
       <strong>Senior Researcher</strong><br>
       **Name 3**<br>
-      [LinkedIn](https://linkedin.com/in/member1)
+      [LinkedIn]
     </td>
     <td align="center">
       <img src="images/member2.png" width="100" height="100" alt="Member 2"><br>
       <strong>Researcher</strong><br>
       **Name 4**<br>
-      [Email](mailto:member2@example.com)
+      [Email]
     </td>
     <td align="center">
       <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
       <strong>Research Assistant</strong><br>
       **Name 5**<br>
-      [GitHub](https://github.com/member3)
+      [GitHub]
     </td>
-    <td align="center">
-      <img src="images/member4.png" width="100" height="100" alt="Member 4"><br>
+     <td align="center">
+      <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
       <strong>Research Assistant</strong><br>
-      **Name 6**<br>
-      [Email](mailto:member4@example.com)
+      **Name 5**<br>
+      [GitHub]
     </td>
   </tr>
 </table>
