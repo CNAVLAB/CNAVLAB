@@ -122,7 +122,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   <!-- Third row: Others -->
   <tr>
     <td align="center">
-      <img src="images/member1.png" width="100" height="100" alt="Member 1"><br>
+      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 1"><br>
       <strong>Senior Researcher</strong><br>
       **Name 3**<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
@@ -140,7 +140,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
     <td align="center">
-      <img src="images/member2.png" width="100" height="100" alt="Member 2"><br>
+      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 2"><br>
       <strong>Researcher</strong><br>
       **Name 4**<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
@@ -158,7 +158,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
     <td align="center">
-      <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
+      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 3"><br>
       <strong>Research Assistant</strong><br>
       **Name 5**<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
@@ -176,7 +176,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
      <td align="center">
-      <img src="images/member3.png" width="100" height="100" alt="Member 3"><br>
+      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 3"><br>
       <strong>Research Assistant</strong><br>
       **Name 5**<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
