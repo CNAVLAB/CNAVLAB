@@ -72,9 +72,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
     <td colspan="2" align="center">
       <img src="images/profiles/baniasad.jpeg" width="200" height="200"><br>
       <strong>Head</strong><br>
-      Ali BaniAsad<br>
-      [Email]
-    </td>
+      Ali BaniAsad<br>[Email](mailto:supervisor@example.com)</td>
     <td colspan="2" align="center">
       <img src="images/profiles/kh.jpg" width="200" height="200" ><br>
       <strong>Co-Head</strong><br>
