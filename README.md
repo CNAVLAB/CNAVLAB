@@ -1,4 +1,4 @@
-# CNAL Lab - Autonomous Systems Repository 🚁
+# CNAV Lab - Autonomous Systems Repository 🚁
 
 Welcome to the CNAV Lab's Autonomous Systems repository on GitHub! 
 CNAV stands for **Control and Navigation for Autonomous Vehicles**.
