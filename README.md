@@ -100,9 +100,9 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
       </td>
     <td colspan="2" align="center">
-      <img src="images/profiles/kh.jpg" width="200" height="200" ><br>
-      <strong>Co-Head</strong><br>
-      Khairol Omor<br>
+      <img src="images/profiles/pordal.jpeg" width="200" height="200" ><br>
+      <strong>pordal ghahreman</strong><br>
+      Reza Pordal<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
     Email
@@ -122,9 +122,9 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   <!-- Third row: Others -->
   <tr>
     <td align="center">
-      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 1"><br>
+      <img src="images/profiles/mirsaeidi.jpeg" width="100" height="100" alt="Member 1"><br>
       <strong>Senior Researcher</strong><br>
-      **Name 3**<br>
+      Hossein Mirsaeidi<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
     Email
@@ -140,9 +140,9 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
     <td align="center">
-      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 2"><br>
+      <img src="images/profiles/nayebi.jpeg" width="100" height="100" alt="Member 2"><br>
       <strong>Researcher</strong><br>
-      **Name 4**<br>
+      Mohammad Nayebi<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
     Email
@@ -158,9 +158,9 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
     <td align="center">
-      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 3"><br>
-      <strong>Research Assistant</strong><br>
-      **Name 5**<br>
+      <img src="images/profiles/mahfar.jpeg" width="100" height="100" alt="Member 3"><br>
+      <strong>Researcher</strong><br>
+      Sepehr Mahfar<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
     Email
@@ -176,9 +176,9 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
      <td align="center">
-      <img src="images/profiles/kh.jpg" width="100" height="100" alt="Member 3"><br>
-      <strong>Research Assistant</strong><br>
-      **Name 5**<br>
+      <img src="images/profiles/baharvand.jpeg" width="100" height="100" alt="Member 3"><br>
+      <strong>Researcher</strong><br>
+      Amir Baharvand<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
     Email
