@@ -101,7 +101,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
       </td>
     <td colspan="2" align="center">
       <img src="images/profiles/pordal.jpeg" width="200" height="200" ><br>
-      <strong>pordal ghahreman</strong><br>
+      <strong>Co-Head</strong><br>
       Reza Pordal<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
