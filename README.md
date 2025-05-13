@@ -140,7 +140,7 @@ Thank you for exploring our Autonomous Systems repository. We can't wait to shar
   </a>
     </td>
     <td align="center">
-      <img src="images/profiles/nayebi.jpeg" width="100" height="100" alt="Member 2"><br>
+      <img src="images/profiles/nayebi.png" width="100" height="100" alt="Member 2"><br>
       <strong>Researcher</strong><br>
       Mohammad Nayebi<br>
       <a href="mailto:alibaniasad1999@yahooe.com">
