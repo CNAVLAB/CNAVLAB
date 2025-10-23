@@ -242,7 +242,7 @@ cd cnavlab/project-name
       </p>
     </td>
     <td align="center" width="25%">
-      <img src="images/profiles/eslami.jpeg" alt="Amir Eslami" width="140"/>
+      <img src="images/profiles/Eslami.JPG" alt="Amir Eslami" width="140"/>
       <br><br>
       <h4>🛰️ Amir Eslami</h4>
       <p><b>Researcher</b></p>
