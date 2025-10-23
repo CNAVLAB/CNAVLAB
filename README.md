@@ -1,149 +1,243 @@
-# CNAV Lab - Autonomous Systems Repository 🚁
+<div align="center">
 
-Welcome to the CNAV Lab's Autonomous Systems repository on GitHub!
-CNAV stands for **Control and Navigation for Autonomous Vehicles**.
+# 🚁 CNAV Lab - Autonomous Systems
 
-<div align="center" style="margin: 2.5rem 0;">
-  <img src="images/logo.png" alt="CNAV Lab Logo" width="520" style="max-width: 100%; border-radius: 16px; box-shadow: 0 18px 45px rgba(15, 23, 42, 0.18);">
+### Control and Navigation for Autonomous Vehicles
+
+<p align="center">
+  <img src="images/logo.png" alt="CNAV Lab Logo" width="500">
+</p>
+
+[![Website](https://img.shields.io/badge/Website-CNAV%20Lab-blue?style=for-the-badge&logo=google-chrome)](http://ae.sharif.edu/~cnavlab)
+[![Email](https://img.shields.io/badge/Email-cnavlab%40ae.sharif.edu-red?style=for-the-badge&logo=gmail)](mailto:cnavlab@ae.sharif.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CNAV%20Lab-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/cnallab)
+
+---
+
+### *Pioneering Innovation in Autonomous Systems & Robotics*
+
 </div>
 
-## Overview 📚
+<br>
 
-This repository is your gateway to our research and projects in the interconnected realms of:
+## 🌟 About Us
 
-- 🌐 Navigation
-- 🤖 Artificial Intelligence
-- 🎛️ Automatic Control
-- 🌍 Embedded Systems
-- 🚁 Quadrotor Technology
-- 📷 Image Processing
+Welcome to **CNAV Lab** – where cutting-edge research meets practical innovation in autonomous systems. Our laboratory is dedicated to advancing the frontiers of intelligent robotics through interdisciplinary research and collaborative development.
 
-## Contents 📂
+<br>
 
-The repository is organized by focus area so you can quickly locate documentation, datasets, and source code for each active initiative.
+## 🔬 Research Areas
 
-## Key Projects 🔑
+<table>
+<tr>
+<td width="33%" align="center">
 
-Explore some of our featured projects:
+### 🌐 Navigation
+Advanced positioning and path planning systems
 
-- [Project 1](link_to_project_1): Jump with Diano
-- [Project 2](link_to_project_2): Cubli
-- [Project 3](link_to_project_3): Quadrotor Regulation
+</td>
+<td width="33%" align="center">
 
-## Getting Started 🚀
+### 🤖 Artificial Intelligence
+Machine learning and intelligent decision-making
 
-Refer to the project-level README files for installation tips, usage examples, and contribution guidelines tailored to each workflow.
+</td>
+<td width="33%" align="center">
 
-## Contributions 🤝
+### 🎛️ Automatic Control
+Robust control systems and optimization
 
-We welcome pull requests, issues, and collaboration proposals. Please review the guidance in `CONTRIBUTING.md` before submitting changes.
+</td>
+</tr>
+<tr>
+<td width="33%" align="center">
 
-## Contact Us 📩
+### 🌍 Embedded Systems
+Real-time computing and hardware integration
 
-Questions, suggestions, or collaboration ideas? Reach us at:
+</td>
+<td width="33%" align="center">
 
-- [Website](http://ae.sharif.edu/~cnavlab)
-- [Email](mailto:cnavlab@ae.sharif.edu)
-- [LinkedIn](https://www.linkedin.com/company/cnallab)
+### 🚁 Quadrotor Technology
+UAV systems and autonomous flight
 
-Thank you for visiting our Autonomous Systems repository. We look forward to sharing new research with you! 🚀🌟
+</td>
+<td width="33%" align="center">
 
-## CNAV Lab People
+### 📷 Image Processing
+Computer vision and perception systems
 
-<div align="center" style="margin: 3rem 0 1.5rem;">
-  <span style="display: inline-block; padding: 0.55rem 1.6rem; border-radius: 999px; background: #e0f2fe; color: #0c4a6e; font-weight: 700; letter-spacing: 0.08em;">MEET THE TEAM</span>
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 🦘 Jump with Diano
+Advanced locomotion control system for dynamic movement
+<br><br>
+**Status:** 🟢 Active  
+[Learn More →](link_to_project_1)
+
+</td>
+<td width="33%">
+
+### 📦 Cubli
+Self-balancing cube with advanced control algorithms
+<br><br>
+**Status:** 🟢 Active  
+[Learn More →](link_to_project_2)
+
+</td>
+<td width="33%">
+
+### 🚁 Quadrotor Regulation
+Precision control for autonomous aerial vehicles
+<br><br>
+**Status:** 🟢 Active  
+[Learn More →](link_to_project_3)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 🚀 Getting Started
+
+Each project contains detailed documentation to help you get up and running quickly:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-org/cnavlab.git
+
+# Navigate to a specific project
+cd cnavlab/project-name
+
+# Follow project-specific README for setup
+```
+
+📖 **Detailed guides available in each project's directory**
+
+<br>
+
+## 👥 Meet Our Team
+
+> **Driving Innovation Through Collaboration**
+
+### 🎓 Leadership
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="200" style="border-radius: 50%;"><br><br>
+      <strong>🔬 Alireza Sharifi</strong><br>
+      <em>Laboratory Supervisor</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧 Email</a> •
+      <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+      <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" width="200" style="border-radius: 50%;"><br><br>
+      <strong>👨‍💼 Ali BaniAsad</strong><br>
+      <em>Laboratory Head</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧 Email</a> •
+      <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+      <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" width="200" style="border-radius: 50%;"><br><br>
+      <strong>🤝 Reza Pordal</strong><br>
+      <em>Laboratory Co-Head</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧 Email</a> •
+      <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+      <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+    </td>
+  </tr>
+</table>
+
+### 🔍 Research Team
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="160" style="border-radius: 50%;"><br><br>
+      <strong>Hossein Mirsaeidi</strong><br>
+      <em>Senior Researcher</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧</a> •
+      <a href="https://github.com/alibaniasad1999">💻</a> •
+      <a href="https://t.me/alibaniasad1999">💬</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" width="160" style="border-radius: 50%;"><br><br>
+      <strong>Mohammad Nayebi</strong><br>
+      <em>Researcher</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧</a> •
+      <a href="https://github.com/alibaniasad1999">💻</a> •
+      <a href="https://t.me/alibaniasad1999">💬</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" width="160" style="border-radius: 50%;"><br><br>
+      <strong>Sepehr Mahfar</strong><br>
+      <em>Researcher</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧</a> •
+      <a href="https://github.com/alibaniasad1999">💻</a> •
+      <a href="https://t.me/alibaniasad1999">💬</a>
+    </td>
+    <td align="center" width="25%">
+      <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" width="160" style="border-radius: 50%;"><br><br>
+      <strong>Amir Baharvand</strong><br>
+      <em>Researcher</em><br><br>
+      <a href="mailto:alibaniasad1999@yahooe.com">📧</a> •
+      <a href="https://github.com/alibaniasad1999">💻</a> •
+      <a href="https://t.me/alibaniasad1999">💬</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether you're fixing bugs, adding features, or improving documentation, your help is appreciated.
+
+**Before contributing:**
+1. 📖 Read our `CONTRIBUTING.md` guidelines
+2. 🔍 Check existing issues and pull requests
+3. 💬 Discuss major changes in an issue first
+
+<br>
+
+## 📬 Get In Touch
+
+<div align="center">
+
+Have questions, suggestions, or collaboration ideas?
+
+**We'd love to hear from you!**
+
+[![Website](https://img.shields.io/badge/🌐_Visit_Our_Website-ae.sharif.edu-blue?style=for-the-badge)](http://ae.sharif.edu/~cnavlab)
+[![Email](https://img.shields.io/badge/📧_Email_Us-cnavlab@ae.sharif.edu-red?style=for-the-badge)](mailto:cnavlab@ae.sharif.edu)
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-CNAV_Lab-0077B5?style=for-the-badge)](https://www.linkedin.com/company/cnallab)
+
 </div>
 
-### Leadership
+<br>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.75rem; margin: 1.5rem 0;">
-  <div style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 18px; padding: 1.6rem; box-shadow: 0 16px 38px rgba(15, 23, 42, 0.08);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" style="width: 180px; height: 220px; object-fit: cover; border-radius: 14px; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);">
-    </div>
-    <h3 style="margin: 1.25rem 0 0.35rem; text-align: center;">Alireza Sharifi</h3>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4f46e5;">Supervisor</p>
-    <div style="display: flex; justify-content: center; gap: 0.65rem; margin-top: 1rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 18px; padding: 1.6rem; box-shadow: 0 16px 38px rgba(15, 23, 42, 0.08);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);">
-    </div>
-    <h3 style="margin: 1.25rem 0 0.35rem; text-align: center;">Ali BaniAsad</h3>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4f46e5;">Head</p>
-    <div style="display: flex; justify-content: center; gap: 0.65rem; margin-top: 1rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 18px; padding: 1.6rem; box-shadow: 0 16px 38px rgba(15, 23, 42, 0.08);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);">
-    </div>
-    <h3 style="margin: 1.25rem 0 0.35rem; text-align: center;">Reza Pordal</h3>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4f46e5;">Co-Head</p>
-    <div style="display: flex; justify-content: center; gap: 0.65rem; margin-top: 1rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
-</div>
+---
 
-### Researchers
+<div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1.5rem; margin: 1.5rem 0 3rem;">
-  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
-    </div>
-    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Hossein Mirsaeidi</h4>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Senior Researcher</p>
-    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
-    </div>
-    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Mohammad Nayebi</h4>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Researcher</p>
-    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
-    </div>
-    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Sepehr Mahfar</h4>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Researcher</p>
-    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
-  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
-    <div style="display: flex; justify-content: center;">
-      <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
-    </div>
-    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Amir Baharvand</h4>
-    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Researcher</p>
-    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
-      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
-      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
-      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
-    </div>
-  </div>
+### ⭐ Star us on GitHub — it motivates us a lot!
+
+**© 2024 CNAV Lab | Sharif University of Technology**
+
+*Advancing Autonomous Systems for a Better Tomorrow* 🚀
+
 </div>
