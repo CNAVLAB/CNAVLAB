@@ -142,49 +142,43 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="33%">
-      <div>
-        <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="180" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h3>🔬 Alireza Sharifi</h3>
-        <p><i>Laboratory Supervisor</i></p>
-        <p>⭐ <b>Leading Research Excellence</b></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
-          <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
-          <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
-        </p>
-      </div>
+      <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="180"/>
+      <br><br>
+      <h3>🔬 Alireza Sharifi</h3>
+      <p><i>Laboratory Supervisor</i></p>
+      <p>⭐ <b>Leading Research Excellence</b></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
+        <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+        <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+      </p>
     </td>
     <td align="center" width="33%">
-      <div>
-        <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" width="180" style="border-radius: 50%; border: 5px solid #f5576c; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h3>👨‍💼 Ali BaniAsad</h3>
-        <p><i>Laboratory Head</i></p>
-        <p>⭐ <b>Strategic Leadership</b></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
-          <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
-          <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
-        </p>
-      </div>
+      <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" width="180"/>
+      <br><br>
+      <h3>👨‍💼 Ali BaniAsad</h3>
+      <p><i>Laboratory Head</i></p>
+      <p>⭐ <b>Strategic Leadership</b></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
+        <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+        <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+      </p>
     </td>
     <td align="center" width="33%">
-      <div>
-        <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" width="180" style="border-radius: 50%; border: 5px solid #00f2fe; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h3>🤝 Reza Pordal</h3>
-        <p><i>Laboratory Co-Head</i></p>
-        <p>⭐ <b>Collaborative Innovation</b></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
-          <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
-          <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
-        </p>
-      </div>
+      <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" width="180"/>
+      <br><br>
+      <h3>🤝 Reza Pordal</h3>
+      <p><i>Laboratory Co-Head</i></p>
+      <p>⭐ <b>Collaborative Innovation</b></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
+        <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+        <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+      </p>
     </td>
   </tr>
 </table>
@@ -196,64 +190,56 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="25%">
-      <div>
-        <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="140" style="border-radius: 50%; border: 4px solid #fee140; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h4>✨ Hossein Mirsaeidi</h4>
-        <p><b>Senior Researcher</b></p>
-        <p><sub>🏆 AI & Control Systems</sub></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
-          <a href="https://github.com/alibaniasad1999">💻</a> •
-          <a href="https://t.me/alibaniasad1999">💬</a>
-        </p>
-      </div>
+      <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="140"/>
+      <br><br>
+      <h4>✨ Hossein Mirsaeidi</h4>
+      <p><b>Senior Researcher</b></p>
+      <p><sub>🏆 AI & Control Systems</sub></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+        <a href="https://github.com/alibaniasad1999">💻</a> •
+        <a href="https://t.me/alibaniasad1999">💬</a>
+      </p>
     </td>
     <td align="center" width="25%">
-      <div>
-        <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" width="140" style="border-radius: 50%; border: 4px solid #30cfd0; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h4>🎯 Mohammad Nayebi</h4>
-        <p><b>Researcher</b></p>
-        <p><sub>🤖 Robotics & Automation</sub></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
-          <a href="https://github.com/alibaniasad1999">💻</a> •
-          <a href="https://t.me/alibaniasad1999">💬</a>
-        </p>
-      </div>
+      <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" width="140"/>
+      <br><br>
+      <h4>🎯 Mohammad Nayebi</h4>
+      <p><b>Researcher</b></p>
+      <p><sub>🤖 Robotics & Automation</sub></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+        <a href="https://github.com/alibaniasad1999">💻</a> •
+        <a href="https://t.me/alibaniasad1999">💬</a>
+      </p>
     </td>
     <td align="center" width="25%">
-      <div>
-        <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" width="140" style="border-radius: 50%; border: 4px solid #fed6e3; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h4>🚀 Sepehr Mahfar</h4>
-        <p><b>Researcher</b></p>
-        <p><sub>🛸 UAV Systems</sub></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
-          <a href="https://github.com/alibaniasad1999">💻</a> •
-          <a href="https://t.me/alibaniasad1999">💬</a>
-        </p>
-      </div>
+      <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" width="140"/>
+      <br><br>
+      <h4>🚀 Sepehr Mahfar</h4>
+      <p><b>Researcher</b></p>
+      <p><sub>🛸 UAV Systems</sub></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+        <a href="https://github.com/alibaniasad1999">💻</a> •
+        <a href="https://t.me/alibaniasad1999">💬</a>
+      </p>
     </td>
     <td align="center" width="25%">
-      <div>
-        <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" width="140" style="border-radius: 50%; border: 4px solid #ff6a88; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
-        <br><br>
-        <h4>💡 Amir Baharvand</h4>
-        <p><b>Researcher</b></p>
-        <p><sub>📷 Computer Vision</sub></p>
-        <br>
-        <p>
-          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
-          <a href="https://github.com/alibaniasad1999">💻</a> •
-          <a href="https://t.me/alibaniasad1999">💬</a>
-        </p>
-      </div>
+      <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" width="140"/>
+      <br><br>
+      <h4>💡 Amir Baharvand</h4>
+      <p><b>Researcher</b></p>
+      <p><sub>📷 Computer Vision</sub></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+        <a href="https://github.com/alibaniasad1999">💻</a> •
+        <a href="https://t.me/alibaniasad1999">💬</a>
+      </p>
     </td>
   </tr>
 </table>
