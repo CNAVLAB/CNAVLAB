@@ -1,17 +1,15 @@
 # CNAV Lab - Autonomous Systems Repository 🚁
 
-Welcome to the CNAV Lab's Autonomous Systems repository on GitHub! 
+Welcome to the CNAV Lab's Autonomous Systems repository on GitHub!
 CNAV stands for **Control and Navigation for Autonomous Vehicles**.
 
-<div align="center">
-  <img src="images/logo.png" width="1504" height="352" alt="CNAV Lab Logo"><br>
+<div align="center" style="margin: 2.5rem 0;">
+  <img src="images/logo.png" alt="CNAV Lab Logo" width="520" style="max-width: 100%; border-radius: 16px; box-shadow: 0 18px 45px rgba(15, 23, 42, 0.18);">
 </div>
-
-
 
 ## Overview 📚
 
-This repository is your gateway to our research and projects in the fascinating realms of:
+This repository is your gateway to our research and projects in the interconnected realms of:
 
 - 🌐 Navigation
 - 🤖 Artificial Intelligence
@@ -22,180 +20,130 @@ This repository is your gateway to our research and projects in the fascinating 
 
 ## Contents 📂
 
-Our repository is thoughtfully organized into directories for each focus area, making it effortless for you to explore and access our groundbreaking work. Dive into detailed documentation, code, and project updates within each section.
+The repository is organized by focus area so you can quickly locate documentation, datasets, and source code for each active initiative.
 
 ## Key Projects 🔑
 
 Explore some of our featured projects:
 
-- [Project 1](link_to_project_1): Jump with Diano.
-- [Project 2](link_to_project_2): Cubli.
-- [Project 3](link_to_project_3): Quadrotor Regulation.
+- [Project 1](link_to_project_1): Jump with Diano
+- [Project 2](link_to_project_2): Cubli
+- [Project 3](link_to_project_3): Quadrotor Regulation
 
 ## Getting Started 🚀
 
-To embark on your journey with any of our projects, kindly refer to the respective README files within the project directories. They contain comprehensive instructions for installation, usage, and how you can contribute.
+Refer to the project-level README files for installation tips, usage examples, and contribution guidelines tailored to each workflow.
 
 ## Contributions 🤝
 
-We wholeheartedly embrace contributions and collaborations from the community. If you'd like to contribute to a project or have brilliant ideas for collaboration, please follow our guidelines in the `CONTRIBUTING.md` file.
+We welcome pull requests, issues, and collaboration proposals. Please review the guidance in `CONTRIBUTING.md` before submitting changes.
 
 ## Contact Us 📩
 
-Have questions, suggestions, or just eager to connect with us? Reach out through our official channels:
+Questions, suggestions, or collaboration ideas? Reach us at:
 
 - [Website](http://ae.sharif.edu/~cnavlab)
 - [Email](mailto:cnavlab@ae.sharif.edu)
 - [LinkedIn](https://www.linkedin.com/company/cnallab)
 
-Thank you for exploring our Autonomous Systems repository. We can't wait to share our awe-inspiring research and innovations with you! 🚀🌟
+Thank you for visiting our Autonomous Systems repository. We look forward to sharing new research with you! 🚀🌟
 
+## CNAV Lab People
 
-
-# CNAV Lab People
-
-<div align="center">
-
-<table>
-  <!-- Supervisor row -->
-  <tr>
-    <td colspan="4" align="center">
-      <img src="images/profiles/sharifi.jpeg" width="200" height="280" ><br>
-      <strong>Supervisor</strong><br>
-      Alireza Sharifi<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-    </td>
-  </tr>
-
-  <!-- Second row: Co-heads -->
-  <tr>
-    <td colspan="2" align="center">
-      <img src="images/profiles/baniasad.jpeg" width="200" height="200"><br>
-      <strong>Head</strong><br>
-      Ali BaniAsad<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-      </td>
-    <td colspan="2" align="center">
-      <img src="images/profiles/pordal.jpeg" width="200" height="200" ><br>
-      <strong>Co-Head</strong><br>
-      Reza Pordal<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-    </td>
-  </tr>
-
-  <!-- Third row: Others -->
-  <tr>
-    <td align="center">
-      <img src="images/profiles/mirsaeidi.jpeg" width="100" height="100" alt="Member 1"><br>
-      <strong>Senior Researcher</strong><br>
-      Hossein Mirsaeidi<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-    </td>
-    <td align="center">
-      <img src="images/profiles/nayebi.png" width="100" height="100" alt="Member 2"><br>
-      <strong>Researcher</strong><br>
-      Mohammad Nayebi<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-    </td>
-    <td align="center">
-      <img src="images/profiles/mahfar.jpeg" width="100" height="100" alt="Member 3"><br>
-      <strong>Researcher</strong><br>
-      Sepehr Mahfar<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-    </td>
-     <td align="center">
-      <img src="images/profiles/baharvand.jpeg" width="100" height="100" alt="Member 3"><br>
-      <strong>Researcher</strong><br>
-      Amir Baharvand<br>
-      <a href="mailto:alibaniasad1999@yahooe.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Email
-  </a> 
-  <a href="https://github.com/alibaniasad1999">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/github/github-original.svg" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Github
-  </a>
-  <br>
-  <a href="https://t.me/alibaniasad1999">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="Email" width="20" height="20" style="vertical-align: middle;">
-    Telegram
-  </a>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="margin: 3rem 0 1.5rem;">
+  <span style="display: inline-block; padding: 0.55rem 1.6rem; border-radius: 999px; background: #e0f2fe; color: #0c4a6e; font-weight: 700; letter-spacing: 0.08em;">MEET THE TEAM</span>
 </div>
 
+### Leadership
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.75rem; margin: 1.5rem 0;">
+  <div style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 18px; padding: 1.6rem; box-shadow: 0 16px 38px rgba(15, 23, 42, 0.08);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" style="width: 180px; height: 220px; object-fit: cover; border-radius: 14px; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);">
+    </div>
+    <h3 style="margin: 1.25rem 0 0.35rem; text-align: center;">Alireza Sharifi</h3>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4f46e5;">Supervisor</p>
+    <div style="display: flex; justify-content: center; gap: 0.65rem; margin-top: 1rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+  <div style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 18px; padding: 1.6rem; box-shadow: 0 16px 38px rgba(15, 23, 42, 0.08);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);">
+    </div>
+    <h3 style="margin: 1.25rem 0 0.35rem; text-align: center;">Ali BaniAsad</h3>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4f46e5;">Head</p>
+    <div style="display: flex; justify-content: center; gap: 0.65rem; margin-top: 1rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+  <div style="background: linear-gradient(135deg, #f8fafc 0%, #ffffff 100%); border: 1px solid #e2e8f0; border-radius: 18px; padding: 1.6rem; box-shadow: 0 16px 38px rgba(15, 23, 42, 0.08);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; box-shadow: 0 12px 30px rgba(15, 23, 42, 0.18);">
+    </div>
+    <h3 style="margin: 1.25rem 0 0.35rem; text-align: center;">Reza Pordal</h3>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4f46e5;">Co-Head</p>
+    <div style="display: flex; justify-content: center; gap: 0.65rem; margin-top: 1rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+</div>
+
+### Researchers
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 1.5rem; margin: 1.5rem 0 3rem;">
+  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
+    </div>
+    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Hossein Mirsaeidi</h4>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Senior Researcher</p>
+    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
+    </div>
+    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Mohammad Nayebi</h4>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Researcher</p>
+    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
+    </div>
+    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Sepehr Mahfar</h4>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Researcher</p>
+    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+  <div style="background: linear-gradient(135deg, #eef2ff 0%, #ffffff 100%); border: 1px solid #e0e7ff; border-radius: 16px; padding: 1.4rem; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.06);">
+    <div style="display: flex; justify-content: center;">
+      <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" style="width: 140px; height: 140px; object-fit: cover; border-radius: 50%; box-shadow: 0 10px 24px rgba(15, 23, 42, 0.16);">
+    </div>
+    <h4 style="margin: 1rem 0 0.3rem; text-align: center;">Amir Baharvand</h4>
+    <p style="margin: 0; text-align: center; font-weight: 600; color: #4338ca;">Researcher</p>
+    <div style="display: flex; justify-content: center; gap: 0.55rem; margin-top: 0.9rem; flex-wrap: wrap;">
+      <a href="mailto:alibaniasad1999@yahooe.com" style="text-decoration: none; background: #e0e7ff; color: #1e1b4b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">✉️ Email</a>
+      <a href="https://github.com/alibaniasad1999" style="text-decoration: none; background: #d1fae5; color: #064e3b; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">🐙 GitHub</a>
+      <a href="https://t.me/alibaniasad1999" style="text-decoration: none; background: #dbeafe; color: #1d4ed8; padding: 0.3rem 0.75rem; border-radius: 999px; font-size: 0.82rem; font-weight: 600;">📨 Telegram</a>
+    </div>
+  </div>
+</div>
