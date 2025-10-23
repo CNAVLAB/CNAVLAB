@@ -142,45 +142,48 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="200" style="border-radius: 50%;"/>
-      <br><br>
-      <h3>🔬 Alireza Sharifi</h3>
-      <p><i>Laboratory Supervisor</i></p>
-      <p><b>⭐ Leading Research Excellence</b></p>
-      <br>
-      <p>
-        <a href="mailto:alibaniasad1999@yahoo
-          <a href="https://github.com/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💻 GitHub</a>
-          <a href="https://t.me/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💬 Telegram</a>
-        </div>
+      <div>
+        <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="180" style="border-radius: 50%; border: 5px solid #667eea; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h3>🔬 Alireza Sharifi</h3>
+        <p><i>Laboratory Supervisor</i></p>
+        <p>⭐ <b>Leading Research Excellence</b></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
+          <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+          <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+        </p>
       </div>
     </td>
     <td align="center" width="33%">
-      <div style="padding: 20px; background: linear-gradient(135deg, #93ddfbff 0%, #f5576c 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-        <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" width="180" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"><br>
-        <h3 style="color: white; margin-top: 15px;">👨‍💼 Ali BaniAsad</h3>
-        <p style="color: #f0f0f0; font-style: italic; margin: 5px 0;">Laboratory Head</p>
-        <p style="color: #ffd700; font-size: 0.9em;">⭐ Strategic Leadership</p>
-        <hr style="border: 1px solid rgba(255,255,255,0.3); margin: 15px 0;">
-        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: white; text-decoration: none; margin: 0 8px;">📧 Email</a>
-          <a href="https://github.com/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💻 GitHub</a>
-          <a href="https://t.me/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💬 Telegram</a>
-        </div>
+      <div>
+        <img src="images/profiles/baniasad.jpeg" alt="Ali BaniAsad" width="180" style="border-radius: 50%; border: 5px solid #f5576c; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h3>👨‍💼 Ali BaniAsad</h3>
+        <p><i>Laboratory Head</i></p>
+        <p>⭐ <b>Strategic Leadership</b></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
+          <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+          <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+        </p>
       </div>
     </td>
     <td align="center" width="33%">
-      <div style="padding: 20px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-        <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" width="180" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"><br>
-        <h3 style="color: white; margin-top: 15px;">🤝 Reza Pordal</h3>
-        <p style="color: #f0f0f0; font-style: italic; margin: 5px 0;">Laboratory Co-Head</p>
-        <p style="color: #ffd700; font-size: 0.9em;">⭐ Collaborative Innovation</p>
-        <hr style="border: 1px solid rgba(255,255,255,0.3); margin: 15px 0;">
-        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: white; text-decoration: none; margin: 0 8px;">📧 Email</a>
-          <a href="https://github.com/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💻 GitHub</a>
-          <a href="https://t.me/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💬 Telegram</a>
-        </div>
+      <div>
+        <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" width="180" style="border-radius: 50%; border: 5px solid #00f2fe; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h3>🤝 Reza Pordal</h3>
+        <p><i>Laboratory Co-Head</i></p>
+        <p>⭐ <b>Collaborative Innovation</b></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
+          <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
+          <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+        </p>
       </div>
     </td>
   </tr>
@@ -193,55 +196,63 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="25%">
-      <div style="padding: 15px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); margin: 10px;">
-        <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="140" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"><br>
-        <h4 style="color: white; margin-top: 12px;">✨ Hossein Mirsaeidi</h4>
-        <p style="color: #2d3748; font-weight: bold; margin: 5px 0;">Senior Researcher</p>
-        <p style="background: rgba(255,255,255,0.3); padding: 5px 10px; border-radius: 15px; font-size: 0.85em; color: #1a202c; margin: 8px 0;">🏆 AI & Control Systems</p>
-        <div style="background: rgba(255,255,255,0.25); padding: 8px; border-radius: 8px; margin-top: 10px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: white; font-size: 1.2em; margin: 0 6px;">📧</a>
-          <a href="https://github.com/alibaniasad1999" style="color: white; font-size: 1.2em; margin: 0 6px;">💻</a>
-          <a href="https://t.me/alibaniasad1999" style="color: white; font-size: 1.2em; margin: 0 6px;">💬</a>
-        </div>
+      <div>
+        <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="140" style="border-radius: 50%; border: 4px solid #fee140; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h4>✨ Hossein Mirsaeidi</h4>
+        <p><b>Senior Researcher</b></p>
+        <p><sub>🏆 AI & Control Systems</sub></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+          <a href="https://github.com/alibaniasad1999">💻</a> •
+          <a href="https://t.me/alibaniasad1999">💬</a>
+        </p>
       </div>
     </td>
     <td align="center" width="25%">
-      <div style="padding: 15px; background: linear-gradient(135deg, #30cfd0 0%, #330867 100%); border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); margin: 10px;">
-        <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" width="140" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"><br>
-        <h4 style="color: white; margin-top: 12px;">🎯 Mohammad Nayebi</h4>
-        <p style="color: #e0e0e0; font-weight: bold; margin: 5px 0;">Researcher</p>
-        <p style="background: rgba(255,255,255,0.3); padding: 5px 10px; border-radius: 15px; font-size: 0.85em; color: white; margin: 8px 0;">🤖 Robotics & Automation</p>
-        <div style="background: rgba(255,255,255,0.25); padding: 8px; border-radius: 8px; margin-top: 10px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: white; font-size: 1.2em; margin: 0 6px;">📧</a>
-          <a href="https://github.com/alibaniasad1999" style="color: white; font-size: 1.2em; margin: 0 6px;">💻</a>
-          <a href="https://t.me/alibaniasad1999" style="color: white; font-size: 1.2em; margin: 0 6px;">💬</a>
-        </div>
+      <div>
+        <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" width="140" style="border-radius: 50%; border: 4px solid #30cfd0; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h4>🎯 Mohammad Nayebi</h4>
+        <p><b>Researcher</b></p>
+        <p><sub>🤖 Robotics & Automation</sub></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+          <a href="https://github.com/alibaniasad1999">💻</a> •
+          <a href="https://t.me/alibaniasad1999">💬</a>
+        </p>
       </div>
     </td>
     <td align="center" width="25%">
-      <div style="padding: 15px; background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); margin: 10px;">
-        <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" width="140" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"><br>
-        <h4 style="color: #2d3748; margin-top: 12px;">🚀 Sepehr Mahfar</h4>
-        <p style="color: #4a5568; font-weight: bold; margin: 5px 0;">Researcher</p>
-        <p style="background: rgba(0,0,0,0.1); padding: 5px 10px; border-radius: 15px; font-size: 0.85em; color: #1a202c; margin: 8px 0;">🛸 UAV Systems</p>
-        <div style="background: rgba(0,0,0,0.1); padding: 8px; border-radius: 8px; margin-top: 10px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: #2d3748; font-size: 1.2em; margin: 0 6px;">📧</a>
-          <a href="https://github.com/alibaniasad1999" style="color: #2d3748; font-size: 1.2em; margin: 0 6px;">💻</a>
-          <a href="https://t.me/alibaniasad1999" style="color: #2d3748; font-size: 1.2em; margin: 0 6px;">💬</a>
-        </div>
+      <div>
+        <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" width="140" style="border-radius: 50%; border: 4px solid #fed6e3; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h4>🚀 Sepehr Mahfar</h4>
+        <p><b>Researcher</b></p>
+        <p><sub>🛸 UAV Systems</sub></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+          <a href="https://github.com/alibaniasad1999">💻</a> •
+          <a href="https://t.me/alibaniasad1999">💬</a>
+        </p>
       </div>
     </td>
     <td align="center" width="25%">
-      <div style="padding: 15px; background: linear-gradient(135deg, #ff9a56 0%, #ff6a88 100%); border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.15); margin: 10px;">
-        <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" width="140" style="border-radius: 50%; border: 4px solid white; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"><br>
-        <h4 style="color: white; margin-top: 12px;">💡 Amir Baharvand</h4>
-        <p style="color: #f0f0f0; font-weight: bold; margin: 5px 0;">Researcher</p>
-        <p style="background: rgba(255,255,255,0.3); padding: 5px 10px; border-radius: 15px; font-size: 0.85em; color: white; margin: 8px 0;">📷 Computer Vision</p>
-        <div style="background: rgba(255,255,255,0.25); padding: 8px; border-radius: 8px; margin-top: 10px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: white; font-size: 1.2em; margin: 0 6px;">📧</a>
-          <a href="https://github.com/alibaniasad1999" style="color: white; font-size: 1.2em; margin: 0 6px;">💻</a>
-          <a href="https://t.me/alibaniasad1999" style="color: white; font-size: 1.2em; margin: 0 6px;">💬</a>
-        </div>
+      <div>
+        <img src="images/profiles/baharvand.jpeg" alt="Amir Baharvand" width="140" style="border-radius: 50%; border: 4px solid #ff6a88; box-shadow: 0 3px 6px rgba(0,0,0,0.2);"/>
+        <br><br>
+        <h4>💡 Amir Baharvand</h4>
+        <p><b>Researcher</b></p>
+        <p><sub>📷 Computer Vision</sub></p>
+        <br>
+        <p>
+          <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
+          <a href="https://github.com/alibaniasad1999">💻</a> •
+          <a href="https://t.me/alibaniasad1999">💬</a>
+        </p>
       </div>
     </td>
   </tr>
