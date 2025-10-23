@@ -241,12 +241,16 @@ cd cnavlab/project-name
         <a href="https://t.me/alibaniasad1999">💬</a>
       </p>
     </td>
+  </tr>
+
+  <!-- New Row -->
+  <tr>
     <td align="center" width="25%">
-      <img src="images/profiles/Eslami.JPG" alt="Amir Eslami" width="140"/>
+      <img src="images/profiles/Eslami.JPG" alt="Amir Eslami" width="140" height="140" style="object-fit: cover; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.15);"/>
       <br><br>
       <h4>🛰️ Amir Eslami</h4>
       <p><b>Researcher</b></p>
-      <p><sub>🧭 Autonomous Navigation </sub></p>
+      <p><sub>🧭 Autonomous Navigation</sub></p>
       <br>
       <p>
         <a href="mailto:amir81mlm@gmail.com">📧</a> •
