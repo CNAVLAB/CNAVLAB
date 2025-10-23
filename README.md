@@ -241,7 +241,21 @@ cd cnavlab/project-name
         <a href="https://t.me/alibaniasad1999">💬</a>
       </p>
     </td>
+    <td align="center" width="25%">
+      <img src="images/profiles/eslami.jpeg" alt="Amir Eslami" width="140"/>
+      <br><br>
+      <h4>🛰️ Amir Eslami</h4>
+      <p><b>Researcher</b></p>
+      <p><sub>🧭 Autonomous Navigation </sub></p>
+      <br>
+      <p>
+        <a href="mailto:amir81mlm@gmail.com">📧</a> •
+        <a href="https://github.com/Amir81Eslami">💻</a> •
+        <a href="https://t.me/amiesl">💬</a>
+      </p>
+    </td>
   </tr>
+  
 </table>
 
 <br>
