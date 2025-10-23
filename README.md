@@ -142,14 +142,14 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="33%">
-      <div style="padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-        <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="180" style="border-radius: 50%; border: 5px solid white; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"><br>
-        <h3 style="color: white; margin-top: 15px;">🔬 Alireza Sharifi</h3>
-        <p style="color: #f0f0f0; font-style: italic; margin: 5px 0;">Laboratory Supervisor</p>
-        <p style="color: #e5ff00ff; font-size: 0.9em;">⭐ Leading Research Excellence</p>
-        <hr style="border: 1px solid rgba(255,255,255,0.3); margin: 15px 0;">
-        <div style="background: rgba(255,255,255,0.2); padding: 10px; border-radius: 8px;">
-          <a href="mailto:alibaniasad1999@yahooe.com" style="color: white; text-decoration: none; margin: 0 8px;">📧 Email</a>
+      <img src="images/profiles/sharifi.jpeg" alt="Alireza Sharifi" width="200" style="border-radius: 50%;"/>
+      <br><br>
+      <h3>🔬 Alireza Sharifi</h3>
+      <p><i>Laboratory Supervisor</i></p>
+      <p><b>⭐ Leading Research Excellence</b></p>
+      <br>
+      <p>
+        <a href="mailto:alibaniasad1999@yahoo
           <a href="https://github.com/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💻 GitHub</a>
           <a href="https://t.me/alibaniasad1999" style="color: white; text-decoration: none; margin: 0 8px;">💬 Telegram</a>
         </div>
