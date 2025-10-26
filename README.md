@@ -190,7 +190,7 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="140"/>
+      <img src="images/profiles/mirsaeidi.jpg" alt="Hossein Mirsaeidi" width="140"/>
       <br><br>
       <h4>✨ Hossein Mirsaeidi</h4>
       <p><b>Senior Researcher</b></p>
