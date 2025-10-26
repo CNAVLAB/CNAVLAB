@@ -194,7 +194,7 @@ cd cnavlab/project-name
       <br><br>
       <h4>✨ Hossein Mirsaeidi</h4>
       <p><b>Senior Researcher</b></p>
-      <p><sub>🏆 AI & Control Systems</sub></p>
+      <p><sub>🏆 Control Theory & Multi-Agent Systems </sub></p>
       <br>
       <p>
         <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
