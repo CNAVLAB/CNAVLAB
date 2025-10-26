@@ -205,14 +205,14 @@ cd cnavlab/project-name
     <td align="center" width="25%">
       <img src="images/profiles/nayebi.png" alt="Mohammad Nayebi" width="140"/>
       <br><br>
-      <h4>🎯 Mohammad Nayebi</h4>
+      <h4>🛩 Mohammad Nayebi</h4>
       <p><b>Researcher</b></p>
-      <p><sub>🤖 Robotics & Automation</sub></p>
+      <p><sub>Navigation 🗺 & AI 🧠</sub></p>
       <br>
       <p>
-        <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
-        <a href="https://github.com/alibaniasad1999">💻</a> •
-        <a href="https://t.me/alibaniasad1999">💬</a>
+        <a href="mailto:mohammadnayebi8203@gmail.com">📧</a> •
+        <a href="https://github.com/mohammadnayebi">💻</a> •
+        <a href="https://t.me/Mohammad_Nayebi82">💬</a>
       </p>
     </td>
     <td align="center" width="25%">
