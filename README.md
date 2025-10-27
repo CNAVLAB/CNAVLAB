@@ -170,7 +170,7 @@ cd cnavlab/project-name
     <td align="center" width="33%">
       <img src="images/profiles/pordal.jpeg" alt="Reza Pordal" width="180"/>
       <br><br>
-      <h3>🏳️‍🌈 Reza Pordal</h3>
+      <h3> Reza Pordal</h3>
       <p><i>Laboratory Co-Head</i></p>
       <p>⭐ <b>Collaborative Innovation</b></p>
       <br>
