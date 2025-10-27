@@ -190,11 +190,11 @@ cd cnavlab/project-name
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="images/profiles/mirsaeidi.jpeg" alt="Hossein Mirsaeidi" width="140"/>
+      <img src="images/profiles/mirsaeidi.jpg" alt="Hossein Mirsaeidi" width="140"/>
       <br><br>
       <h4>✨ Hossein Mirsaeidi</h4>
       <p><b>Senior Researcher</b></p>
-      <p><sub>🏆 AI & Control Systems</sub></p>
+      <p><sub>🏆 Control Theory & Multi-Agent Systems </sub></p>
       <br>
       <p>
         <a href="mailto:alibaniasad1999@yahoo.com">📧</a> •
