@@ -218,9 +218,9 @@ cd cnavlab/project-name
     <td align="center" width="25%">
       <img src="images/profiles/mahfar.jpeg" alt="Sepehr Mahfar" width="140"/>
       <br><br>
-      <h4> Sepehr Mahfar</h4>
+      <h4> ✨ Sepehr Mahfar</h4>
       <p><b>Researcher</b></p>
-      <p><sub> Robotic & Control Theory</sub></p>
+      <p><sub> 💻 Robotics & 🧠 Control Theory</sub></p>
       <br>
       <p>
         <a href="mailto:sepehr.mahfar81@gmail.com">📧</a> •
