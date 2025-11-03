@@ -175,9 +175,9 @@ cd cnavlab/project-name
       <p>⭐ <b>Collaborative Innovation</b></p>
       <br>
       <p>
-        <a href="mailto:alibaniasad1999@yahoo.com">📧 Email</a> •
-        <a href="https://github.com/alibaniasad1999">💻 GitHub</a> •
-        <a href="https://t.me/alibaniasad1999">💬 Telegram</a>
+        <a href="mailto:r.pordal@yahoo.com">📧 Email</a> •
+        <a href="https://github.com/Faivex">💻 GitHub</a> •
+        <a href="https://t.me/favex">💬 Telegram</a>
       </p>
     </td>
   </tr>
